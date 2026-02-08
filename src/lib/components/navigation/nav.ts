@@ -1,0 +1,1 @@
+export type page_name = "home" | "about" | "design" | "projects"
