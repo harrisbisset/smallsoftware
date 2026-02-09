@@ -15,7 +15,7 @@
 	<div class="h-full w-full bg-purple"></div>
 {/snippet}
 
-<div class="grid grid-cols-2 gap-12 px-28 pt-6 2xl:grid-cols-3">
+<div class="grid grid-cols-2 gap-12 px-6 lg:px-28 pt-6 2xl:grid-cols-3">
 	<div class="flex h-80 justify-center bg-red-500">
 		<div class="text-6xl font-bold">smallsoftware</div>
 	</div>
